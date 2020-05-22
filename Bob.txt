@@ -1,3 +1,7 @@
 Hi! I am Bob. I am new here.
 New line for master branch.
+
 I have been here for a while now.
+Hi! I am Bobby. I'm new here.
+
+I have resolved the confict.
