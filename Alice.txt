@@ -1,4 +1,8 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 Okk... I have changed this Alice File.
 Again Some change in Alice.
 New change for patrick.
+=======
+I have changed something via git website.
+>>>>>>> d7e111956852679fdd4ad57c6559ac15389d1c94
